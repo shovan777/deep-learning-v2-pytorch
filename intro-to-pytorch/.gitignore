@@ -1,2 +1,8 @@
 catvsdog
 F_MNIST_data/
+test1/
+Cat_Dog_data/
+checkpoint.pth 
+dense121_catdog_weights.pth
+submission.csv
+
